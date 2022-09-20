@@ -1,0 +1,11 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout<<"this is 4110E016 徐柏軒\n";
+    cout<<"Hello World"; //註解 C==console
+
+    return 0;
+}
