@@ -6,7 +6,7 @@ x = 1    # int
 y = 2.8  # float
 z = 1j   # complex
 
-```Python
+```
 
 x = 1
 y = 35656222554887711
@@ -72,4 +72,4 @@ print(type(z))
 
 ```Python
 
-```Python
+```
