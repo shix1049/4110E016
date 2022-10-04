@@ -126,6 +126,16 @@ if "expensive" not in txt:
   print("No, 'expensive' is NOT present.")
 ```
 ## 列表list的各種運算  [參考範例](https://www.w3schools.com/python/python_lists.asp)
-
+```Python
+thislist = ["apple", "banana", "cherry"]
+print(thislist)
+```
 ## 字典dict的各種運算 [參考範例](https://www.w3schools.com/python/python_dictionaries.asp)
-
+```Python
+thisdict = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+print(thisdict)
+```
