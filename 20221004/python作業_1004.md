@@ -1,5 +1,6 @@
 ## CH 3.各種資料型態的許多運算
 
+
 ## 整數的各種運算 [參考範例](https://www.w3schools.com/python/python_numbers.asp)
 
 ```Python
@@ -124,3 +125,7 @@ txt = "The best things in life are free!"
 if "expensive" not in txt:
   print("No, 'expensive' is NOT present.")
 ```
+## 列表list的各種運算  [參考範例](https://www.w3schools.com/python/python_lists.asp)
+
+## 字典dict的各種運算 [參考範例](https://www.w3schools.com/python/python_dictionaries.asp)
+
