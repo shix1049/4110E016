@@ -71,7 +71,7 @@ import random
 
 print(random.randrange(1, 10))
 ```
-## 字串str的各種運算[參考範例](https://www.w3schools.com/python/python_strings.asp)
+## 字串str的各種運算 [參考範例](https://www.w3schools.com/python/python_strings.asp)
 ```Python
 print("Hello")
 print('Hello')
