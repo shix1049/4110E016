@@ -1,4 +1,4 @@
-##
+##python決策與選擇結構(SELECTION /DECISION)[參考範例](https://youtu.be/Qp2rnckGlAg)
 
 ```Python
 a = 33
