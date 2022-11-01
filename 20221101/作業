@@ -1,0 +1,25 @@
+  - 簡述底下應用層協定(英文全名與簡單功能說明):
+    - HTTP vs HTTPs
+      - HyperText Transfer Protocol 超文本傳輸協定
+      - HTTP是一種用於分佈式、協作式和`超媒體訊息`系統的`應用層`協定
+      - HTTP是`全球資訊網`的數據通信的基礎。
+      - HyperText Transfer Protocol Secure 超文本傳輸安全協定
+      - 是一種透過`計算機網路`進行安全通訊的`傳輸`協定。HTTPS經由HTTP進行通訊，但利用`SSL/TLS`來加密封包
+      - HTTPS開發的主要目的，是提供對`網站伺服器的身分認證`，保護`交換資料`的隱私與完整性。
+    - DNS vs DNSsec
+      - Domain Name System 網域名稱系統
+      - 是網際網路的一項服務。它作為將`域名`和`IP位址`相互對映的一個`分散式資料庫`，能夠使人更方便地存取網際網路。
+      - DNS使用`TCP和UDP埠53`。當前，對於每一級域名長度的限制是63個字元，域名總長度則不能超過253個字元。
+      - 
+    - telnet vs ssh
+    - ftp vs sftp
+    - smtp, pop3
+    - SNMP 
+  - 簡述底下傳輸層協定(英文全名與簡單功能說明):
+    - TCP vs UDP
+    - reliable(可靠的) vs unreliable(不可靠的) 
+    - TCP three-way handshaking(三項交握)
+    - TCP syn flood attack
+  - 簡述底下網路層協定(英文全名與簡單功能說明): 
+    - IP
+    - ICMP 
